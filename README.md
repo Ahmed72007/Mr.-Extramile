@@ -1,4 +1,6 @@
 
+<img width="1366" height="654" alt="image" src="https://github.com/user-attachments/assets/022c003c-458f-46d8-8eba-1e3ba0044c02" />
+
 # Mr. ExtraMile – AI Research Assistant
 
 **Project Status:** Proof-of-Concept / Idea Execution
